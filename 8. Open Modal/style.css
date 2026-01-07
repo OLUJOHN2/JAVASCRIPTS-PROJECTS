@@ -24,3 +24,35 @@ button{
 button:hover{
     background-color: darkslategray;
 }
+
+.modal{
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    height: 100%;
+    display: none;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal_overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.4)
+}
+
+.modal_content{
+    background-color: white;
+    padding: 4rem;
+    position: relative;
+    cursor: pointer;
+}
+
+/* .modal.open{
+    display: flex;
+} */
