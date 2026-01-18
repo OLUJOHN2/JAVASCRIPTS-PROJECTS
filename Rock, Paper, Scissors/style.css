@@ -1,0 +1,11 @@
+ /* *{
+   width: auto;
+   height: auto;
+}  */
+
+body{
+    text-align: center;
+    align-items: center;
+    margin-top: 15%;
+    background-color: aqua;
+}
