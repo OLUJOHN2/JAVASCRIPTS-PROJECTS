@@ -36,7 +36,7 @@ function addNumber(number) {
   } else {
     secondNumber += number;
     display.value = secondNumber;
-  }
+   }
 }
 
 function setOperator(op) {
