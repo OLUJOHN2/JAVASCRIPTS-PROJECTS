@@ -1,0 +1,16 @@
+body{
+    padding: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 span {
+    color: red;
+}
+
+button{
+    padding: 5px;
+    background-color: teal;
+    color: whitesmoke;
+    border: none;
+    cursor: pointer;
+}
